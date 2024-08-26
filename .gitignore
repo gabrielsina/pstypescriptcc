@@ -148,3 +148,5 @@ shared/dataPacket.js
 client/ChartObserver.js
 client/ConsoleObserver.js
 client/TableObserver.js
+
+vc-example/*.js
